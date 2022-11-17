@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Homepage des Bürger- und Kulturvereins Altes Rathaus Hammah</title>
+    <link href="https://ceekas.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://ceekas.github.io/gh-pages" />
+    <updated>2022-11-17T22:59:36+01:00</updated>
+    <author>
+        <name>Christian</name>
+    </author>
+    <id>https://ceekas.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hallo Hammah!</title>
+        <author>
+            <name>Christian</name>
+        </author>
+        <link href="https://ceekas.github.io/gh-pages/hallo-hammah.html"/>
+        <id>https://ceekas.github.io/gh-pages/hallo-hammah.html</id>
+
+        <updated>2022-11-17T22:59:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Es ist uns eine große Freude, dir den neu gegründeten Bürger- und Kulturverein Altes Rathaus e. V. in Hammah, kurz vorzustellen. Nicht nur durch Corona sind viele kleine und große Aktivitäten der Dorfgemeinschaft zum Erliegen gekommen. Wir möchten das ändern! Dazu haben wir uns zusammengefunden&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span lang="DE">Es ist uns eine große Freude, dir den neu gegründeten Bürger- und Kulturverein Altes Rathaus e. V. in Hammah, kurz vorzustellen.</span><span lang="DE"> </span></p>
+<p><span lang="DE">Nicht nur durch Corona sind viele kleine und große Aktivitäten der Dorfgemeinschaft zum Erliegen gekommen. Wir möchten das ändern! Dazu haben wir uns zusammengefunden und planen, sowohl das alte Rathaus als auch die neugestaltete Dorfgemeinschaftsanlage mit Leben zu füllen. </span><span lang="DE"> </span></p>
+<p><span lang="DE">Egal, ob Kulturveranstaltungen, Kinoabende, Musik, Bildung oder einfach geselliges Beisammensein – wir planen, ein breites Spektrum an Angeboten zu schaffen und nachhaltig zu etablieren. Es soll für jeden etwas dabei sein. Unsere Arbeit richtet sich dabei explizit an die gesamte Dorfgemeinschaft, </span><span lang="DE">an dich, an euch, an alle!</span><span lang="DE"> </span></p>
+<p>Wir wünsche euch viel Spaß auf unserer Website!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

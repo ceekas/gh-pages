@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Homepage des Bürger- und Kulturvereins Altes Rathaus Hammah",
+    "description": "",
+    "home_page_url": "https://ceekas.github.io/gh-pages",
+    "feed_url": "https://ceekas.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Christian"
+    },
+    "items": [
+        {
+            "id": "https://ceekas.github.io/gh-pages/hallo-hammah.html",
+            "url": "https://ceekas.github.io/gh-pages/hallo-hammah.html",
+            "title": "Hallo Hammah!",
+            "summary": "Es ist uns eine große Freude, dir den neu gegründeten Bürger- und Kulturverein Altes Rathaus e. V. in Hammah, kurz vorzustellen. Nicht nur durch Corona sind viele kleine und große Aktivitäten der Dorfgemeinschaft zum Erliegen gekommen. Wir möchten das ändern! Dazu haben wir uns zusammengefunden&hellip;",
+            "content_html": "<p><span lang=\"DE\">Es ist uns eine große Freude, dir den neu gegründeten Bürger- und Kulturverein Altes Rathaus e. V. in Hammah, kurz vorzustellen.</span><span lang=\"DE\"> </span></p>\n<p><span lang=\"DE\">Nicht nur durch Corona sind viele kleine und große Aktivitäten der Dorfgemeinschaft zum Erliegen gekommen. Wir möchten das ändern! Dazu haben wir uns zusammengefunden und planen, sowohl das alte Rathaus als auch die neugestaltete Dorfgemeinschaftsanlage mit Leben zu füllen. </span><span lang=\"DE\"> </span></p>\n<p><span lang=\"DE\">Egal, ob Kulturveranstaltungen, Kinoabende, Musik, Bildung oder einfach geselliges Beisammensein – wir planen, ein breites Spektrum an Angeboten zu schaffen und nachhaltig zu etablieren. Es soll für jeden etwas dabei sein. Unsere Arbeit richtet sich dabei explizit an die gesamte Dorfgemeinschaft, </span><span lang=\"DE\">an dich, an euch, an alle!</span><span lang=\"DE\"> </span></p>\n<p>Wir wünsche euch viel Spaß auf unserer Website!</p>",
+            "author": {
+                "name": "Christian"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-17T22:53:28+01:00",
+            "date_modified": "2022-11-17T22:59:36+01:00"
+        }
+    ]
+}
